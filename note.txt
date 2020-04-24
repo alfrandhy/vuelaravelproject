@@ -1,3 +1,5 @@
 composer require laravel/ui
 php artisan ui vue --auth
 npn install && npm run dev
+npm install admin-lte --save
+npm install vue-router
